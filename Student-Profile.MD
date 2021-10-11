@@ -1,14 +1,16 @@
 10/7/2021
-
 Afrah Alharbi 
-Cohort 1
+Cohort 6
 ## Student Career Goal Statement  
   My career goal: 
-  Striving for self-development in the field of specialization to serve the major, raise its efficiency, and achieve its vision and goals.
+  Striving for self-development in the field of major to serve the ministry raise its efficiency and achieve its vision and goals.
+
 Which financial services or products would you like to work with?
  Investment services, insurance services, banking services.
-Which technologies do you want to contribute to? 
- Blockchain, Crypto Currencie, Smart Contracts, Artificial intelligence.
+
+Which technologies do you want to contribute to?
+Blockchain, Crypto Currencie, Smart Contracts, Artificial intelligence.
+
 Which problems or opportunities do you want to focus on?
 Data analysis, deeper understanding of financial technology, machine learning and artificial intelligence, cryptocurrency learning. 
 
