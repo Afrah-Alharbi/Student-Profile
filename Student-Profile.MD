@@ -1,5 +1,7 @@
 10/7/2021
-Afrah Alharbi 
+
+Afrah Alharbi
+
 Cohort 6
 ## Student Career Goal Statement  
   My career goal: 
